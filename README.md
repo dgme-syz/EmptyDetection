@@ -2,7 +2,9 @@
 🚀 `ResNet18` 小项目：**识别空车位**
 
 > 依赖
-
+```
+pip install -r requirements.txt
+```
 
 
 🤔背景 ： 露天停车场一个较好的优势是可以商用遥感卫星，虽然对于大部分普通停车场还不具备这一条件，但是实际应用场景可以对于该模块进行进一步修改，为了更好地简化问题，我们利用遥感卫星拍摄的图像拍摄空车位
@@ -29,7 +31,7 @@
 
 本项目采用 ResNet18 架构，其结构如下：
 
-<img src="pic/ResNet18.png" style="height: 1000px;">
+<img src="pic/Resnet18.png" style="height: 1000px;">
 
 💫这样的架构足以解决大多数图像分类情况
 
