@@ -1,0 +1,4 @@
+Pillow==10.1.0
+torch==2.2.0.dev20231022+cpu
+torchvision==0.17.0.dev20231022+cpu
+tqdm==4.66.1
